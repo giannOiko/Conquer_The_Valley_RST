@@ -6,3 +6,6 @@ RST single player game created on Unity Engine!
 Get stronger with mining and farming before the enemy catch to you.
 
 ![alt text](https://github.com/giannOiko/Conquer_The_Valley_RST/blob/main/source_files/Picture1)
+
+
+![alt text](https://github.com/giannOiko/Conquer_The_Valley_RST/blob/main/source_files/Picture2)
