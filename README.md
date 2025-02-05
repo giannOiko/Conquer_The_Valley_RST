@@ -1,2 +1,6 @@
 # Conquer_The_Valley_RST
 RST game
+
+RST single player game created on Unity Engine!
+
+Get stronger with mining and farming before the enemy catch to you.
