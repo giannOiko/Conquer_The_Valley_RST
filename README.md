@@ -4,3 +4,5 @@ RST game
 RST single player game created on Unity Engine!
 
 Get stronger with mining and farming before the enemy catch to you.
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
